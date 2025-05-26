@@ -1,0 +1,19 @@
+{
+  "name": "auth2fa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcrakoto/WEB-APP__Authentification2FA__Nodejs.git"
+  },
+  "author": "Marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcrakoto/WEB-APP__Authentification2FA__Nodejs/issues"
+  },
+  "homepage": "https://github.com/marcrakoto/WEB-APP__Authentification2FA__Nodejs#readme",
+  "description": ""
+}
