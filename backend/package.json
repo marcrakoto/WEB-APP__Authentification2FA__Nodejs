@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "npm run test"
   },
   "repository": {
@@ -15,5 +17,8 @@
     "url": "https://github.com/marcrakoto/WEB-APP__Authentification2FA__Nodejs/issues"
   },
   "homepage": "https://github.com/marcrakoto/WEB-APP__Authentification2FA__Nodejs#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
